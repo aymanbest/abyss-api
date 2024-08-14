@@ -10,6 +10,6 @@
 
 - **URL**: `/decode`
 - **Method**: `POST`
-- **Headers**: `Content-Type: application/x-www-form-urlencoded`
+- **Headers**: `Content-Type: multipart/form-data`
 - **Body**:
     - `abyss`: The string to decode.
